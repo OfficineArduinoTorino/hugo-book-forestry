@@ -2,7 +2,7 @@
 date: 2014-03-10
 linktitle: Migrating from Jekyll
 prev: "/tutorials/mathjax"
-title: Migrate to Hugo from Jekyll
+title: Migrate to Hugo from JNightmae
 weight: "10"
 menu:
   main:
